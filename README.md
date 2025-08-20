@@ -2,7 +2,7 @@
 
 **`Bacharelando em Tecnologia da Informação pela UFRN`**
 
-Graduando em Tecnologia da Informação pela UFRN, com experiência em programação e interesse nas áreas de ciência de dados, inteligência artificial e desenvolvimento de software. Tenho também apreço por temas ligados à ciência, exatas e tecnologia. Valores como ética, empatia e curiosidade intelectual orientam minha formação pessoal e acadêmica. Fora do ambiente acadêmico, sou entusiasta do futebol e busco aprofundar minha vivência cristã no cotidiano.
+Técnico em Informática pelo IFRN e graduando em Tecnologia da Informação pela UFRN, com experiência em programação e interesse nas áreas de ciência de dados, inteligência artificial e desenvolvimento de software. Tenho também apreço por temas ligados à ciência, exatas e tecnologia. Valores como ética, empatia e curiosidade intelectual orientam minha formação pessoal e acadêmica. Fora do ambiente acadêmico, sou entusiasta do futebol e busco aprofundar minha vivência cristã no cotidiano.
 
 <p align="left"> 
   <a href="https://github.com/Ian-Daniel?tab=followers">
